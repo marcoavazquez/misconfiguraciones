@@ -1,0 +1,41 @@
+Estilo de elementos graficos:
+  QtCurve
+	Descartes Breeze | Breeze
+
+Iconos:
+  Breeze (plasma 5) < mas bonito :3
+  FaenzaFlattr
+	DarkDecoration
+	...
+
+Tipo de letra:
+  General: 
+	Waree, Droid Sans, Dejavu Sans
+  Anchura fija: 
+	Source Code Pro, monaco, ubuntu mono, monospace, Sogoe UI(windows)
+  
+GTK:
+  gtk2: QTcurve
+  gtk3: Mint-x-Fixed
+  tipo de letra: Waree
+  tipo de iconos: Flattr
+
+Decoracion de ventana:
+  QTcurve
+  Oxigeno
+  Ningun otro convence
+
+Tema de escritorio:
+  Diamante
+  eleonora
+  glassified
+  *naked
+  plateu
+  shadowed
+  ViolePastel
+  Wave
+
+Instalar VeroMix:
+  Deshabilitar kmix:
+	ir a /share/autostart/kmix_autostart.desktop
+	cambiar autostart de true a false

@@ -1,0 +1,48 @@
+Maximizar Ventana : Meta + Ctrl + Arriba
+Minimizar Ventana : Meta + Ctrl + Abajo
+Mover Ventana: Meta + Ctrl + Home
+Redimensionar Ventana: Meta + Ctrl + Fin
+Mover a parte Izquierda/Derecha: Meta + Ctrl + Izquierda/Derecha
+Cambiar ventana de pantalla : Meta + Mayus + Izquierda/Derecha
+Maximizar ventana verticalmente: Meta + Ctrl + PageUp
+Disminuir opacidad 5%: Ctrl + Shift + -
+Aumentar opacidad 5%: Ctrl + Shisft + 8
+Cambiar de escritorio: Meta + shoft + RePag/AvPag
+
+SUBLIME TEXT:
+
+Ctrl + PageUp/PageDown: Cambiar entre pestañas
+Ctrl + Mayus + 1/2/3: Abrir documento en la columna deseada
+Ctrl + L : Selecciona la línea entera
+Ctrl + Mayus + L : Coloca un cursor en la líneas seleccionadas
+Ctrl + M : Pasa al parentesis o llave par seleccionado
+Ctrl + Mayus + M : Selecciona lo que se está dentro de la llave o parentesis
+Ctrl + Mayus + A : Selecciona todas las lineas de la etiqueta actual (html, xml)
+Ctrl + J : Selecciona todas las líneas indentadas igual a donde se encuentra el cursor
+Ctrl + Mayus + Espacio : Selecciona el elemento que contiene al cursor actual según las directrices del lenguaje
+Ctrl + [/] : Comentar, descomentar linea
+Ctrl + Abajo : Desplaza el documento hacia abajo una línea
+Ctrl + Arriba: Desplaza el documento habia arriba una línea
+Ctrl + Del/Supr : Borra la palabra siguiente
+Ctrl + Retroceso : Borra la palabra anterior
+Ctrl + Mayus + Supr | Ctrl + K + K : Borra hasta el final de la linea
+Ctrl + Mayus + Retroceso | Ctrl + k + Retroceso : Borra hasta el principio de la línea
+Ctrl + Mayus + K : Borra la línea entera
+Ctrl + T : Intercambia secciones seleccionadas
+Alt + Mayus + W : Encierra el texto seleccionado dentro de un elemento HTML o XML
+F9 : Ordena en orden alfabético
+Ctrl + Mayus + [/] : Contrae/Despliega el código seleccionado
+Ctrl + K + 1,2,3...: Contrae todo el código referente al alcance superior respecto a la posición del cursor
+Ctrl + K + J : Expande todo el código
+Ctrl + K + Espacio : Marcar las líneas seleccionadas
+Ctrl + K + A : Selecciona el texto desde la posición del cursor hasta la marca más próxima
+Ctrl + K + D : Elimina el texto desde la posición actual hasta la marca más próxima
+Ctrl + K + G : Quita todas las marcas
+Alt + . : Cierra la última etiqueta abierta
+Ctrl + Mayus + ' : Toma la selección y la convierte en una etiqueta con su cierre
+
+Ctrl + F2 : Quita y pone un marcador
+F2 : Ir al siguiente marcador
+Mayus + F2 : Ir al marcador anterior
+Ctrl + Mayus + F2 : Quita todos los marcadores
+Alt + F2 : Quita Selecciona todos los marcadores
